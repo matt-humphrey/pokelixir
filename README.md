@@ -1,6 +1,10 @@
 # Pokelixir
 
-**TODO: Add description**
+This is an exercise from [DockYard Academy](https://github.com/matt-humphrey/DockYard-Academy).
+
+The aim of this exercise is to practice extracting data from APIs.
+
+In this instance, a couple of functions have been defined to allow the user to get the stats for a specific Pokemon, or to output a list of the stats of ALL Pokemon.
 
 ## Installation
 
